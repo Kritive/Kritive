@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kritive
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Designing
+- 🌱 I’m currently learning Web Designing & Web Development
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me kritiveb@gmail.com
 
